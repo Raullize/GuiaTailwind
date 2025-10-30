@@ -51,20 +51,20 @@ O **Tailwind CSS** é um framework CSS de utilidades (utility-first) que permite
 
 O Tailwind CSS continua evoluindo, adicionando novas funcionalidades e melhorando a experiência do desenvolvedor.
 
-## 🔗 Links úteis 🌐
-- [Documentação oficial](https://tailwindcss.com/docs) 📚
-- [Tailwind UI](https://tailwindui.com/) 💼
-- [Tailwind Play](https://play.tailwindcss.com/) 🧪
-- [Repositório GitHub](https://github.com/tailwindlabs/tailwindcss) 📂
-- [Tailwind Components](https://tailwindcomponents.com/) 🧩
-- [Headless UI](https://headlessui.dev/) 🎭
-- [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet) 📋
+## 🔗 Links úteis
+- [Documentação oficial](https://tailwindcss.com/docs)
+- [Tailwind UI](https://tailwindui.com/)
+- [Tailwind Play](https://play.tailwindcss.com/)
+- [Repositório GitHub](https://github.com/tailwindlabs/tailwindcss)
+- [Tailwind Components](https://tailwindcomponents.com/)
+- [Headless UI](https://headlessui.dev/)
+- [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
-## 👨‍💻 Sobre o Projeto 🚀
+## 👨‍💻 Sobre o Projeto
 
 Este projeto é uma documentação aberta sobre Tailwind CSS, criada para servir como referência rápida e guia de aprendizado. Cada seção aborda um aspecto específico do Tailwind com exemplos práticos e explicações concisas.
 
-## 🤝 Contribuição 👥
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você encontrar erros, quiser adicionar mais conteúdo ou melhorar as explicações, sinta-se à vontade para:
 
