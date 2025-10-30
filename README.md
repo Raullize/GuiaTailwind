@@ -1,26 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=180&section=header&text=GuiaTailwind&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🎨 GuiaTailwind ✨
+# 🎨 GuiaTailwind
 
 Bem-vindo ao **GuiaTailwind**! ✌️ Este guia tem como objetivo oferecer uma introdução abrangente ao Tailwind CSS para iniciantes e até mesmo para aqueles que já possuem experiência intermediária e desejam relembrar conceitos fundamentais. Aqui você encontrará conceitos, exemplos práticos e dicas úteis. Vamos lá! 🚀
 
-## 📚 Conteúdo 📋
+## 📚 Conteúdo
 
 1. [🎨 O que é Tailwind CSS?](#o-que-e-tailwind)
-2. [📂 Instalação e configuração](contents/instalacao-e-configuracao.md) 📝
-3. [🎯 Utilitários fundamentais](contents/utilitarios-fundamentais.md) 🧰
-4. [🎨 Cores e personalização](contents/cores-e-personalizacao.md) 🌈
-5. [📐 Layout e espaçamento](contents/layout-e-espacamento.md) 📏
-6. [🖼️ Tipografia](contents/tipografia.md) 📝
-7. [🧩 Flexbox com Tailwind](contents/flexbox-com-tailwind.md) 🔄
-8. [📊 Grid no Tailwind](contents/grid-no-tailwind.md) 🏗️
-9. [📱 Responsividade](contents/responsividade.md) 📲
-10. [✨ Estados e variantes](contents/estados-variantes.md) 🔍
-11. [🎬 Animações e transições](contents/animacoes-e-transicoes.md) 🌟
-12. [🧩 Componentes e plugins](contents/componentes-e-plugins.md) 🔌
-13. [🔄 Tailwind com React](contents/tailwind-com-react.md) ⚛️
+2. [📂 Instalação e configuração](contents/instalacao-e-configuracao.md)
+3. [🎯 Utilitários fundamentais](contents/utilitarios-fundamentais.md)
+4. [🎨 Cores e personalização](contents/cores-e-personalizacao.md)
+5. [📐 Layout e espaçamento](contents/layout-e-espacamento.md)
+6. [🖼️ Tipografia](contents/tipografia.md)
+7. [🧩 Flexbox com Tailwind](contents/flexbox-com-tailwind.md)
+8. [📊 Grid no Tailwind](contents/grid-no-tailwind.md)
+9. [📱 Responsividade](contents/responsividade.md)
+10. [✨ Estados e variantes](contents/estados-variantes.md)
+11. [🎬 Animações e transições](contents/animacoes-e-transicoes.md)
+12. [🧩 Componentes e plugins](contents/componentes-e-plugins.md)
+13. [🔄 Tailwind com React](contents/tailwind-com-react.md)
 
-<h2 id="o-que-e-tailwind"> 🤔 O que é Tailwind CSS? 💭</h2>
+<h2 id="o-que-e-tailwind"> 🤔 O que é Tailwind CSS?</h2>
 
 O **Tailwind CSS** é um framework CSS de utilidades (utility-first) que permite criar designs personalizados sem sair do seu HTML. Diferente de frameworks como Bootstrap, que fornecem componentes predefinidos, o Tailwind oferece classes utilitárias de baixo nível que você combina para construir designs completamente personalizados.
 
