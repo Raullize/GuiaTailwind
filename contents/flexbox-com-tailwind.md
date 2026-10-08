@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🧩 Flexbox com Tailwind CSS 🔄
+# Flexbox com Tailwind CSS
 
 O Flexbox é um modelo de layout do CSS que permite criar designs flexíveis e responsivos. O Tailwind CSS oferece uma série de classes utilitárias que facilitam o uso do Flexbox sem precisar escrever CSS personalizado.
 
-## 📋 Habilitando o Flexbox
+## Habilitando o Flexbox
 
 Para usar o Flexbox, primeiro defina um elemento como um container flex:
 
@@ -19,7 +19,7 @@ Para usar o Flexbox, primeiro defina um elemento como um container flex:
 </div>
 ```
 
-## 🧭 Direção do Flex
+## Direção do Flex
 
 Controle a direção dos itens dentro do container flex:
 
@@ -53,7 +53,7 @@ Controle a direção dos itens dentro do container flex:
 </div>
 ```
 
-## 📏 Quebra de Linha (Wrap)
+## Quebra de Linha (Wrap)
 
 Defina se os itens devem quebrar para a próxima linha quando não couberem no container:
 
@@ -163,7 +163,7 @@ Controle como os itens são alinhados verticalmente (no eixo transversal):
 </div>
 ```
 
-## 📊 Alinhamento de Linhas Múltiplas (Align Content)
+## Alinhamento de Linhas Múltiplas (Align Content)
 
 Quando há múltiplas linhas (flex-wrap), controle como essas linhas são distribuídas:
 
@@ -199,7 +199,7 @@ Quando há múltiplas linhas (flex-wrap), controle como essas linhas são distri
 </div>
 ```
 
-## 📌 Alinhamento Individual (Self)
+## Alinhamento Individual (Self)
 
 Você pode sobrescrever o alinhamento de itens específicos:
 
@@ -213,7 +213,7 @@ Você pode sobrescrever o alinhamento de itens específicos:
 </div>
 ```
 
-## 📏 Controle de Crescimento/Encolhimento (Flex)
+## Controle de Crescimento/Encolhimento (Flex)
 
 ### Flex Grow (Crescimento)
 
@@ -287,7 +287,7 @@ Define o tamanho inicial de um item antes de crescer ou encolher:
 <div class="flex-none">Não cresce nem encolhe</div>
 ```
 
-## 🔄 Ordem
+## Ordem
 
 Controle a ordem dos itens independentemente da ordem no HTML:
 
@@ -313,7 +313,7 @@ Controle a ordem dos itens independentemente da ordem no HTML:
 </div>
 ```
 
-## 📱 Flexbox Responsivo
+## Flexbox Responsivo
 
 Adapte o layout flexbox para diferentes tamanhos de tela:
 
@@ -339,7 +339,7 @@ Adapte o layout flexbox para diferentes tamanhos de tela:
 </div>
 ```
 
-## 🎯 Espaçamento entre Itens (Gap)
+## Espaçamento entre Itens (Gap)
 
 O Tailwind oferece classes para controlar o espaço entre itens sem usar margens:
 
@@ -373,7 +373,7 @@ O Tailwind oferece classes para controlar o espaço entre itens sem usar margens
 </div>
 ```
 
-## 🛠️ Exemplos Práticos
+## Exemplos Práticos
 
 ### 1. Barra de Navegação Responsiva
 
@@ -475,7 +475,7 @@ O Tailwind oferece classes para controlar o espaço entre itens sem usar margens
   <div class="flex flex-col items-center text-center max-w-2xl">
     <h1 class="text-4xl md:text-6xl font-bold text-white leading-tight">
       Crie designs incríveis com Flexbox e Tailwind
-    </h1>
+</h1>
     <p class="mt-6 text-xl text-blue-100">
       Controle total do layout com classes Flexbox intuitivas e responsivas.
     </p>
@@ -491,7 +491,7 @@ O Tailwind oferece classes para controlar o espaço entre itens sem usar margens
 </div>
 ```
 
-## 🧩 Flexbox vs. Grid
+## Flexbox vs. Grid
 
 O Flexbox é ideal para:
 - Layouts unidimensionais (linha OU coluna)
@@ -505,7 +505,7 @@ O Grid é melhor para:
 - Layouts complexos com áreas nomeadas
 - Quando você precisa de controle sobre ambas as dimensões
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de Flexbox no Tailwind](https://tailwindcss.com/docs/flex-direction)
 - [Guia de Flexbox da CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -516,4 +516,4 @@ O Grid é melhor para:
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

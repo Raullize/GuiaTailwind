@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 📊 Grid no Tailwind CSS 🏗️
+# Grid no Tailwind CSS
 
 O CSS Grid é um poderoso sistema de layout bidimensional que o Tailwind CSS integra perfeitamente através de classes utilitárias intuitivas. Essa tecnologia permite criar layouts complexos com controle preciso tanto em linhas quanto em colunas.
 
-## 📋 Habilitando o Grid
+## Habilitando o Grid
 
 Para usar o Grid, primeiro defina um elemento como um container grid:
 
@@ -19,7 +19,7 @@ Para usar o Grid, primeiro defina um elemento como um container grid:
 </div>
 ```
 
-## 🏗️ Definindo Colunas (Grid Template Columns)
+## Definindo Colunas (Grid Template Columns)
 
 ### Número de colunas predefinido
 
@@ -61,7 +61,7 @@ Para tamanhos específicos, você pode usar valores arbitrários:
 </div>
 ```
 
-## 🏢 Definindo Linhas (Grid Template Rows)
+## Definindo Linhas (Grid Template Rows)
 
 Similar às colunas, você pode definir o número de linhas explícitas:
 
@@ -86,7 +86,7 @@ Similar às colunas, você pode definir o número de linhas explícitas:
 </div>
 ```
 
-## 📏 Posicionamento e Dimensionamento de Itens
+## Posicionamento e Dimensionamento de Itens
 
 ### Span de Coluna (Column Span)
 
@@ -147,7 +147,7 @@ Você pode posicionar itens em posições específicas da grade:
 </div>
 ```
 
-## 📐 Espaçamento entre Itens (Gap)
+## Espaçamento entre Itens (Gap)
 
 Controle o espaçamento entre linhas e colunas:
 
@@ -173,7 +173,7 @@ Controle o espaçamento entre linhas e colunas:
 </div>
 ```
 
-## 🔄 Fluxo do Grid (Grid Auto Flow)
+## Fluxo do Grid (Grid Auto Flow)
 
 Determine como os itens são automaticamente posicionados na grade:
 
@@ -198,7 +198,7 @@ Determine como os itens são automaticamente posicionados na grade:
 </div>
 ```
 
-## 🌟 Auto-Columns e Auto-Rows
+## Auto-Columns e Auto-Rows
 
 Defina o tamanho padrão de colunas e linhas criadas implicitamente:
 
@@ -223,7 +223,7 @@ Para tamanhos personalizados:
 <div class="grid auto-rows-[minmax(100px,_auto)]">Linhas automáticas mínimo 100px</div>
 ```
 
-## 📱 Grid Responsivo
+## Grid Responsivo
 
 Adapte seu layout de grade para diferentes tamanhos de tela:
 
@@ -246,7 +246,7 @@ Adapte seu layout de grade para diferentes tamanhos de tela:
 </div>
 ```
 
-## 🎯 Alinhamento de Itens e Conteúdo
+## Alinhamento de Itens e Conteúdo
 
 ### Justify Items (alinhamento horizontal de todos os itens)
 
@@ -334,7 +334,7 @@ Você pode sobrescrever o alinhamento para itens específicos:
 </div>
 ```
 
-## 🛠️ Exemplos Práticos
+## Exemplos Práticos
 
 ### 1. Layout de Galeria Responsiva
 
@@ -480,7 +480,7 @@ Usando CSS personalizado para nomear áreas em layouts complexos:
 </div>
 ```
 
-## 🔄 Grid vs. Flexbox
+## Grid vs. Flexbox
 
 ### Quando usar Grid:
 - Layouts bidimensionais (linhas E colunas)
@@ -494,7 +494,7 @@ Usando CSS personalizado para nomear áreas em layouts complexos:
 - Alinhamento de itens em um container
 - Componentes de navegação, barras de ferramentas
 
-## 🎨 Personalização 
+## Personalização
 
 Para personalizar os utilitários de grid no `tailwind.config.js`:
 
@@ -524,7 +524,7 @@ module.exports = {
 }
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de Grid no Tailwind](https://tailwindcss.com/docs/grid-template-columns)
 - [Guia de CSS Grid da CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -535,4 +535,4 @@ module.exports = {
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

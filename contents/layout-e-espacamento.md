@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 📐 Layout e Espaçamento no Tailwind CSS 📏
+# Layout e Espaçamento no Tailwind CSS
 
 O controle preciso do layout e do espaçamento é essencial para criar interfaces harmoniosas. O Tailwind CSS oferece um conjunto abrangente de utilitários para gerenciar espaço, posicionamento e layout de forma eficiente.
 
-## 📏 Sistema de Espaçamento
+## Sistema de Espaçamento
 
 O Tailwind usa uma escala de espaçamento consistente para padding, margin, width, height e outros utilitários relacionados ao espaço.
 
@@ -46,7 +46,7 @@ O Tailwind usa uma escala de espaçamento consistente para padding, margin, widt
 - `80` = 20rem (320px)
 - `96` = 24rem (384px)
 
-## 🔄 Margin (margem)
+## Margin (margem)
 
 ### Aplicando margens
 
@@ -100,7 +100,7 @@ O Tailwind oferece o utilitário `space-` para adicionar espaçamento entre elem
 </div>
 ```
 
-## 🔲 Padding (preenchimento)
+## Padding (preenchimento)
 
 ### Aplicando padding
 
@@ -121,7 +121,7 @@ O Tailwind oferece o utilitário `space-` para adicionar espaçamento entre elem
 <div class="pl-4">Padding esquerdo de 1rem</div>
 ```
 
-## 📏 Largura (Width)
+## Largura (Width)
 
 O Tailwind fornece utilitários para definir larguras fixas, responsivas e proporcionais.
 
@@ -188,7 +188,7 @@ O Tailwind fornece utilitários para definir larguras fixas, responsivas e propo
 <div class="max-w-screen-2xl">max-width: 1536px</div>
 ```
 
-## 📐 Altura (Height)
+## Altura (Height)
 
 Assim como ocorre com larguras, o Tailwind oferece diversas classes para controlar alturas.
 
@@ -243,7 +243,7 @@ Assim como ocorre com larguras, o Tailwind oferece diversas classes para control
 <div class="max-h-screen">max-height: 100vh</div>
 ```
 
-## 🧮 Dimensionamento de Linhas e Colunas no Grid
+## Dimensionamento de Linhas e Colunas no Grid
 
 ### Grid Template Columns
 
@@ -275,7 +275,7 @@ Assim como ocorre com larguras, o Tailwind oferece diversas classes para control
 <div class="grid grid-rows-none">No explicit rows</div>
 ```
 
-## 📍 Posicionamento
+## Posicionamento
 
 ### Position
 
@@ -339,7 +339,7 @@ Assim como ocorre com larguras, o Tailwind oferece diversas classes para control
 </div>
 ```
 
-## 🌟 Z-Index
+## Z-Index
 
 O z-index controla o empilhamento de elementos posicionados (não estáticos).
 
@@ -357,7 +357,7 @@ O z-index controla o empilhamento de elementos posicionados (não estáticos).
 <div class="-z-20">z-index: -20</div>
 ```
 
-## 📊 Display
+## Display
 
 A propriedade display controla como um elemento é tratado no fluxo do documento.
 
@@ -385,7 +385,7 @@ A propriedade display controla como um elemento é tratado no fluxo do documento
 <div class="hidden">display: none</div>
 ```
 
-## 🧩 Overflow
+## Overflow
 
 Os utilitários de overflow controlam como o conteúdo é exibido quando ultrapassa os limites do seu container.
 
@@ -408,7 +408,7 @@ Os utilitários de overflow controlam como o conteúdo é exibido quando ultrapa
 <div class="overflow-y-scroll">Sempre mostra barra de rolagem vertical</div>
 ```
 
-## 🏠 Container
+## Container
 
 O Tailwind fornece um utilitário `container` para criar containers responsivos com largura máxima:
 
@@ -443,7 +443,7 @@ Para adicionar padding horizontal:
 </div>
 ```
 
-## 🎯 Box Sizing
+## Box Sizing
 
 O Tailwind usa `box-sizing: border-box` por padrão, mas você pode alterá-lo:
 
@@ -452,7 +452,7 @@ O Tailwind usa `box-sizing: border-box` por padrão, mas você pode alterá-lo:
 <div class="box-content">box-sizing: content-box</div>
 ```
 
-## 📱 Object Fit
+## Object Fit
 
 Controla como uma imagem ou vídeo é redimensionado para caber em seu container:
 
@@ -464,7 +464,7 @@ Controla como uma imagem ou vídeo é redimensionado para caber em seu container
 <img class="object-scale-down" src="...">
 ```
 
-## 🛠️ Exemplos Práticos
+## Exemplos Práticos
 
 ### Layout de Card Responsivo
 
@@ -498,7 +498,7 @@ Controla como uma imagem ou vídeo é redimensionado para caber em seu container
   <div class="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 sm:py-32 lg:px-8">
     <h1 class="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
       Título Principal
-    </h1>
+</h1>
     <p class="mt-6 max-w-3xl text-xl text-gray-300">
       Subtítulo ou descrição que explica melhor o propósito da seção.
     </p>
@@ -547,7 +547,7 @@ Controla como uma imagem ou vídeo é redimensionado para caber em seu container
 </nav>
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de espaçamento](https://tailwindcss.com/docs/padding)
 - [Documentação de layout](https://tailwindcss.com/docs/container)
@@ -558,4 +558,4 @@ Controla como uma imagem ou vídeo é redimensionado para caber em seu container
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

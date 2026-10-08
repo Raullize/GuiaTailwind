@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 📂 Instalação e Configuração do Tailwind CSS 🛠️
+# Instalação e Configuração do Tailwind CSS
 
 O Tailwind CSS é altamente configurável e pode ser instalado de diversas formas. Neste guia, exploraremos os métodos mais comuns de instalação e configuração.
 
-## 📥 Métodos de Instalação
+## Métodos de Instalação
 
-### 1️⃣ Instalação com NPM/Yarn (Recomendado)
+### 1 Instalação com NPM/Yarn (Recomendado)
 
 Este método é ideal para projetos que já utilizam Node.js:
 
@@ -24,7 +24,7 @@ Após a instalação, crie o arquivo de configuração:
 npx tailwindcss init
 ```
 
-### 2️⃣ Instalação via CDN (Rápido, mas limitado)
+### 2 Instalação via CDN (Rápido, mas limitado)
 
 Se você quer apenas experimentar o Tailwind ou para protótipos simples:
 
@@ -37,7 +37,7 @@ Se você quer apenas experimentar o Tailwind ou para protótipos simples:
 - Arquivo CSS maior (não otimizado)
 - Sem plugins ou recursos avançados
 
-### 3️⃣ Instalação em frameworks específicos
+### 3 Instalação em frameworks específicos
 
 #### React (Create React App)
 
@@ -59,7 +59,7 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-## ⚙️ Configuração Básica
+## Configuração Básica
 
 ### 1. Arquivo de configuração (tailwind.config.js)
 
@@ -116,7 +116,7 @@ module.exports = {
 }
 ```
 
-## 🎛️ Personalização Avançada
+## Personalização Avançada
 
 ### Estendendo temas
 
@@ -174,7 +174,7 @@ Usando com a variante `dark:`:
 </div>
 ```
 
-## 🚀 Otimização para Produção
+## Otimização para Produção
 
 O Tailwind pode gerar arquivos CSS extremamente grandes em desenvolvimento. Para produção, é essencial otimizar:
 
@@ -192,7 +192,7 @@ module.exports = {
 }
 ```
 
-## 📋 Verificação da Instalação
+## Verificação da Instalação
 
 Para verificar se o Tailwind está funcionando corretamente, crie um elemento HTML com algumas classes:
 
@@ -205,9 +205,9 @@ Para verificar se o Tailwind está funcionando corretamente, crie um elemento HT
 </div>
 ```
 
-Se o elemento acima estiver estilizado corretamente, parabéns! O Tailwind está funcionando. 🎉
+Se o elemento acima estiver estilizado corretamente, parabéns! O Tailwind está funcionando.
 
-## 🔍 Solução de Problemas Comuns
+## Solução de Problemas Comuns
 
 1. **As classes não estão sendo aplicadas**
    - Verifique se os arquivos estão incluídos no `content` no `tailwind.config.js`
@@ -221,7 +221,7 @@ Se o elemento acima estiver estilizado corretamente, parabéns! O Tailwind está
    - Verifique a sintaxe no `tailwind.config.js`
    - Tente limpar o cache do seu bundler (`npm run clean` ou similar)
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação oficial de instalação](https://tailwindcss.com/docs/installation)
 - [Guia de configuração](https://tailwindcss.com/docs/configuration)
@@ -231,4 +231,4 @@ Se o elemento acima estiver estilizado corretamente, parabéns! O Tailwind está
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🎨 Cores e Personalização no Tailwind CSS 🌈
+# Cores e Personalização no Tailwind CSS
 
 O Tailwind CSS oferece um sistema de cores rico e altamente personalizável. Esta seção explora como usar e personalizar as cores e outros aspectos visuais do seu projeto.
 
-## 🎭 Sistema de Cores Padrão
+## Sistema de Cores Padrão
 
 O Tailwind vem com uma paleta de cores predefinida, cada uma com diferentes tons de intensidade (do 50 ao 900).
 
-### 📊 Paletas Disponíveis
+### Paletas Disponíveis
 
 - `slate`: Tons neutros com um toque azulado
 - `gray`: Cinzas puros
@@ -39,7 +39,7 @@ Além dessas, também existem:
 - `transparent`: Transparente
 - `current`: Cor atual
 
-## 🔍 Como Usar Cores
+## Como Usar Cores
 
 ### Texto
 
@@ -87,7 +87,7 @@ Na versão 3+, também é possível usar a notação de barra:
 <p class="text-black/70">Texto preto 70% opaco</p>
 ```
 
-## 🎛️ Personalizando Cores
+## Personalizando Cores
 
 ### No arquivo tailwind.config.js
 
@@ -149,7 +149,7 @@ Uso:
 <p class="text-marca-300">Texto em cor personalizada clara</p>
 ```
 
-## 🌙 Modo Escuro
+## Modo Escuro
 
 O Tailwind simplifica a implementação do modo escuro:
 
@@ -171,7 +171,7 @@ Usando o modo escuro:
 </div>
 ```
 
-## 🎭 Função Theme()
+## Função Theme()
 
 Dentro do seu CSS personalizado, você pode acessar os valores de tema do Tailwind:
 
@@ -183,7 +183,7 @@ Dentro do seu CSS personalizado, você pode acessar os valores de tema do Tailwi
 }
 ```
 
-## 🧩 CSS Personalizado em Camadas
+## CSS Personalizado em Camadas
 
 O Tailwind define três camadas onde você pode injetar CSS:
 
@@ -210,7 +210,7 @@ O Tailwind define três camadas onde você pode injetar CSS:
 }
 ```
 
-## 🎨 Diretiva Apply
+## Diretiva Apply
 
 A diretiva `@apply` permite compor classes utilitárias em estilos CSS:
 
@@ -230,7 +230,7 @@ Agora você pode simplesmente usar:
 <button class="btn btn-blue">Botão Azul</button>
 ```
 
-## 🧰 Criando Plugins
+## Criando Plugins
 
 Para funcionalidades mais complexas, você pode criar plugins:
 
@@ -258,7 +258,7 @@ module.exports = {
 }
 ```
 
-## 🎯 Gradientes
+## Gradientes
 
 O Tailwind inclui suporte para gradientes:
 
@@ -284,7 +284,7 @@ O Tailwind inclui suporte para gradientes:
 <div class="bg-gradient-to-tl">Para o canto superior esquerdo</div>
 ```
 
-## 🧪 Cores Arbitrárias
+## Cores Arbitrárias
 
 O Tailwind permite usar valores de cores arbitrários:
 
@@ -294,7 +294,7 @@ O Tailwind permite usar valores de cores arbitrários:
 <div class="border-[hsl(221,83%,53%)]">Azul personalizado com notação HSL</div>
 ```
 
-## 🎨 Esquemas de Cores Personalizados
+## Esquemas de Cores Personalizados
 
 Uma estratégia para criar um esquema de cores consistente:
 
@@ -329,7 +329,7 @@ module.exports = {
 }
 ```
 
-## 🖌️ Exemplos Práticos
+## Exemplos Práticos
 
 ### 1. Botão principal com hover e focus
 
@@ -366,7 +366,7 @@ module.exports = {
 </span>
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de cores](https://tailwindcss.com/docs/customizing-colors)
 - [Guia de personalização](https://tailwindcss.com/docs/theme)
@@ -377,4 +377,4 @@ module.exports = {
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🖼️ Tipografia no Tailwind CSS 📝
+# Tipografia no Tailwind CSS
 
 O Tailwind CSS oferece um conjunto completo de utilitários para estilizar texto, permitindo controlar fontes, tamanhos, pesos, espaçamentos e muito mais. Esta seção explora as classes relacionadas à tipografia e como utilizá-las.
 
-## 📊 Família de Fontes
+## Família de Fontes
 
 O Tailwind possui algumas famílias de fontes padrão que você pode personalizar no arquivo de configuração.
 
@@ -40,7 +40,7 @@ Uso:
 <p class="font-body">Texto com Open Sans</p>
 ```
 
-## 📏 Tamanho da Fonte
+## Tamanho da Fonte
 
 O Tailwind oferece uma escala de tamanhos de fonte consistente:
 
@@ -60,7 +60,7 @@ O Tailwind oferece uma escala de tamanhos de fonte consistente:
 <p class="text-9xl">9x grande (8rem)</p>
 ```
 
-## 🔤 Peso da Fonte
+## Peso da Fonte
 
 Controle o peso (espessura) da fonte:
 
@@ -76,7 +76,7 @@ Controle o peso (espessura) da fonte:
 <p class="font-black">Peso 900</p>
 ```
 
-## 📐 Espaçamento de Letras
+## Espaçamento de Letras
 
 O espaçamento entre letras (tracking):
 
@@ -89,7 +89,7 @@ O espaçamento entre letras (tracking):
 <p class="tracking-widest">Tracking super amplo (0.1em)</p>
 ```
 
-## 📏 Altura da Linha
+## Altura da Linha
 
 A altura da linha (line-height) controla o espaçamento vertical entre linhas:
 
@@ -106,7 +106,7 @@ A altura da linha (line-height) controla o espaçamento vertical entre linhas:
 <!-- E assim por diante até leading-10 -->
 ```
 
-## 🔠 Transformação de Texto
+## Transformação de Texto
 
 ```html
 <p class="uppercase">TEXTO EM MAIÚSCULAS</p>
@@ -115,7 +115,7 @@ A altura da linha (line-height) controla o espaçamento vertical entre linhas:
 <p class="normal-case">Texto normal sem transformação</p>
 ```
 
-## 📌 Decoração de Texto
+## Decoração de Texto
 
 ```html
 <p class="underline">Texto sublinhado</p>
@@ -124,7 +124,7 @@ A altura da linha (line-height) controla o espaçamento vertical entre linhas:
 <p class="no-underline">Sem decoração</p>
 ```
 
-## 📊 Alinhamento de Texto
+## Alinhamento de Texto
 
 ```html
 <p class="text-left">Alinhado à esquerda</p>
@@ -135,7 +135,7 @@ A altura da linha (line-height) controla o espaçamento vertical entre linhas:
 <p class="text-end">Fim lógico (depende da direção do texto)</p>
 ```
 
-## 📏 Identação
+## Identação
 
 A identação da primeira linha:
 
@@ -147,7 +147,7 @@ A identação da primeira linha:
 <p class="indent-8">Identação extra grande (2rem)</p>
 ```
 
-## 📜 Quebra de Texto e Overflow
+## Quebra de Texto e Overflow
 
 ### Quebra de Palavras
 
@@ -166,7 +166,7 @@ A identação da primeira linha:
 <p class="text-clip">Corta o texto sem ellipsis</p>
 ```
 
-## 📐 Espaço Entre Palavras
+## Espaço Entre Palavras
 
 ```html
 <p class="whitespace-normal">Espaçamento normal</p>
@@ -176,14 +176,14 @@ A identação da primeira linha:
 <p class="whitespace-pre-wrap">Preserva espaços e quebras, mas permite quebras automáticas</p>
 ```
 
-## 🖌️ Estilo de Fonte
+## Estilo de Fonte
 
 ```html
 <p class="italic">Texto em itálico</p>
 <p class="not-italic">Texto sem itálico</p>
 ```
 
-## 🧬 Variantes de Fonte
+## Variantes de Fonte
 
 Se você estiver usando fontes variáveis, o Tailwind também oferece suporte:
 
@@ -193,14 +193,14 @@ Se você estiver usando fontes variáveis, o Tailwind também oferece suporte:
 </p>
 ```
 
-## 📘 Direção do Texto
+## Direção do Texto
 
 ```html
 <p class="rtl">Texto da direita para a esquerda</p>
 <p class="ltr">Texto da esquerda para a direita</p>
 ```
 
-## 🎯 Lista de Marcadores
+## Lista de Marcadores
 
 ```html
 <ul class="list-disc">
@@ -216,7 +216,7 @@ Se você estiver usando fontes variáveis, o Tailwind também oferece suporte:
 </ul>
 ```
 
-## 🎨 Cores de Texto
+## Cores de Texto
 
 O Tailwind oferece uma ampla paleta de cores para texto:
 
@@ -231,7 +231,7 @@ O Tailwind oferece uma ampla paleta de cores para texto:
 <!-- E muitas outras combinações -->
 ```
 
-## 📱 Responsividade na Tipografia
+## Responsividade na Tipografia
 
 Adapte a tipografia para diferentes tamanhos de tela:
 
@@ -245,7 +245,7 @@ Adapte a tipografia para diferentes tamanhos de tela:
 </p>
 ```
 
-## 🎭 Estados e Variantes
+## Estados e Variantes
 
 Aplique estilos de texto em diferentes estados:
 
@@ -259,7 +259,7 @@ Aplique estilos de texto em diferentes estados:
 </a>
 ```
 
-## 🛠️ Exemplos Práticos
+## Exemplos Práticos
 
 ### Cabeçalho de Artigo
 
@@ -267,7 +267,7 @@ Aplique estilos de texto em diferentes estados:
 <header>
   <h1 class="font-serif text-3xl md:text-4xl font-bold text-gray-900 leading-tight">
     Título Principal do Artigo Que Pode Ocupar Duas Linhas
-  </h1>
+</h1>
   <div class="mt-2 text-sm text-gray-500">
     <span class="font-medium">John Doe</span>
     <span class="mx-1">•</span>
@@ -287,7 +287,7 @@ Aplique estilos de texto em diferentes estados:
     <span class="text-sm font-semibold uppercase tracking-wide text-indigo-500">Novo</span>
     <h2 class="mt-2 text-xl font-bold text-gray-900 leading-tight truncate">
       Nome do Produto Premium
-    </h2>
+</h2>
     <p class="mt-2 text-gray-600 text-sm leading-relaxed line-clamp-3">
       Descrição detalhada do produto que pode ocupar várias linhas e será truncada após três linhas com reticências...
     </p>
@@ -328,7 +328,7 @@ Aplique estilos de texto em diferentes estados:
 </h2>
 ```
 
-## 🎛️ Personalização Tipográfica
+## Personalização Tipográfica
 
 No `tailwind.config.js`, você pode personalizar todos os aspectos da tipografia:
 
@@ -362,7 +362,7 @@ module.exports = {
 }
 ```
 
-## 📚 Usando @apply para Componentes Reutilizáveis
+## Usando @apply para Componentes Reutilizáveis
 
 Você pode usar a diretiva `@apply` para criar estilos de texto reutilizáveis:
 
@@ -389,7 +389,7 @@ Uso:
 <figcaption class="caption">Legenda da imagem</figcaption>
 ```
 
-## 🧰 Plugin de Tipografia (Typography Plugin)
+## Plugin de Tipografia (Typography Plugin)
 
 O Tailwind oferece um plugin oficial de tipografia para estilizar conteúdo de texto longo (como artigos, blog posts, etc.):
 
@@ -422,7 +422,7 @@ Uso:
 </article>
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de Tipografia no Tailwind](https://tailwindcss.com/docs/font-family)
 - [Plugin Typography](https://tailwindcss.com/docs/typography-plugin)
@@ -433,4 +433,4 @@ Uso:
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

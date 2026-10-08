@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🧩 Componentes e Plugins no Tailwind CSS 🔌
+# Componentes e Plugins no Tailwind CSS
 
 O Tailwind CSS é um framework altamente extensível que permite criar componentes reutilizáveis e adicionar funcionalidades através de plugins. Esta seção mostra como aproveitar essas capacidades para melhorar seu fluxo de trabalho.
 
-## 📦 Criando Componentes Reutilizáveis
+## Criando Componentes Reutilizáveis
 
 Embora o Tailwind seja um framework utilitário, existem várias abordagens para criar componentes reutilizáveis.
 
@@ -123,7 +123,7 @@ export default {
 </script>
 ```
 
-## 🛠️ Criando Componentes Comuns
+## Criando Componentes Comuns
 
 ### 1. Card Responsivo
 
@@ -230,7 +230,7 @@ Com `@apply`:
 </form>
 ```
 
-## 🔌 Plugins Oficiais do Tailwind
+## Plugins Oficiais do Tailwind
 
 ### 1. @tailwindcss/forms
 
@@ -378,7 +378,7 @@ Exemplo:
 <!-- Valores disponíveis: line-clamp-1 até line-clamp-6 -->
 ```
 
-## 🛠️ Criando Plugins Personalizados
+## Criando Plugins Personalizados
 
 Você pode criar seus próprios plugins para adicionar funcionalidades específicas.
 
@@ -476,13 +476,13 @@ Uso:
 </div>
 ```
 
-## 🧰 Ferramentas e Recursos de Componentes
+## Ferramentas e Recursos de Componentes
 
 ### 1. Bibliotecas de Componentes
 
 - **Tailwind UI**: Componentes premium mantidos pela equipe do Tailwind
 - **DaisyUI**: Componentes gratuitos para Tailwind CSS
-- **Flowbite**: Componentes de UI baseados em Tailwind 
+- **Flowbite**: Componentes de UI baseados em Tailwind
 - **Headless UI**: Componentes sem estilo mas com funcionalidade
 - **Tailblocks**: Blocos e seções prontas para uso
 
@@ -508,7 +508,7 @@ Uso:
 - **ng-tailwindcss**: Integração do Tailwind com Angular
 - **tailwindcss-schematic**: Adiciona Tailwind a projetos Angular
 
-## 🎯 Exemplos Práticos de Componentes Reutilizáveis
+## Exemplos Práticos de Componentes Reutilizáveis
 
 ### Sistema de Alertas
 
@@ -644,7 +644,7 @@ Uso:
 </script>
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação oficial de Plugins](https://tailwindcss.com/docs/plugins)
 - [Tailwind UI](https://tailwindui.com/) (Componentes premium)
@@ -657,4 +657,4 @@ Uso:
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

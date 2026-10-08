@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🔄 Tailwind CSS com React ⚛️
+# Tailwind CSS com React
 
 O Tailwind CSS funciona extremamente bem com React, proporcionando uma maneira eficiente de criar interfaces de usuário modernas e responsivas. Este guia mostrará como integrar e aproveitar ao máximo o Tailwind em seus projetos React.
 
-## 🚀 Instalação e Configuração
+## Instalação e Configuração
 
 ### Create React App
 
@@ -80,7 +80,7 @@ Adicione as diretivas Tailwind ao arquivo `styles/globals.css`:
 @tailwind utilities;
 ```
 
-## 🧩 Utilizando Tailwind em Componentes React
+## Utilizando Tailwind em Componentes React
 
 ### Abordagem Básica
 
@@ -171,7 +171,7 @@ function Badge({ count, variant }) {
 }
 ```
 
-## 🎨 Criando Componentes Reutilizáveis
+## Criando Componentes Reutilizáveis
 
 ### Componente de Botão
 
@@ -264,7 +264,7 @@ function Card({ title, children, className, ...props }) {
 export default Card;
 ```
 
-## 💅 Estilos Globais vs. Componentes
+## Estilos Globais vs. Componentes
 
 ### Abordagem 1: @apply em arquivos CSS
 
@@ -340,7 +340,7 @@ function LoginForm() {
 }
 ```
 
-## 🧠 Organizando Estilos em Aplicações Maiores
+## Organizando Estilos em Aplicações Maiores
 
 ### Componentes Compostos
 
@@ -466,7 +466,7 @@ function ThemeToggle() {
 }
 ```
 
-## 🔧 Ferramentas e Plugins Úteis
+## Ferramentas e Plugins Úteis
 
 ### 1. Suporte para Editor
 
@@ -520,7 +520,7 @@ function BlogPost({ content }) {
 }
 ```
 
-## 📱 Exemplo de Aplicação Completa
+## Exemplo de Aplicação Completa
 
 Aqui está um exemplo simplificado de uma barra de navegação responsiva em React com Tailwind:
 
@@ -643,7 +643,7 @@ function Navbar() {
 export default Navbar;
 ```
 
-## ⚡ Dicas de Desempenho
+## Dicas de Desempenho
 
 ### 1. Purgando Estilos Não Utilizados
 
@@ -696,7 +696,7 @@ const ComplexComponent = memo(function ComplexComponent({ data }) {
 });
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação oficial do Tailwind com React](https://tailwindcss.com/docs/guides/create-react-app)
 - [Tailwind CSS + React no GitHub](https://github.com/tailwindlabs/tailwindcss-setup-examples/tree/master/examples)
@@ -708,4 +708,4 @@ const ComplexComponent = memo(function ComplexComponent({ data }) {
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

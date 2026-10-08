@@ -1,22 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 📱 Responsividade no Tailwind CSS 📲
+# Responsividade no Tailwind CSS
 
 A responsividade é uma característica essencial para qualquer projeto web moderno. O Tailwind CSS oferece um sistema poderoso e intuitivo para criar layouts que se adaptam perfeitamente a diferentes tamanhos de tela.
 
-## 📏 Breakpoints Padrão
+## Breakpoints Padrão
 
 O Tailwind vem com cinco breakpoints padrão, inspirados em tamanhos comuns de dispositivos:
 
 | Prefixo | Largura mínima | Exemplo de dispositivo |
 |---------|---------------|------------------------|
-| `sm`    | 640px         | Smartphones grandes    |
-| `md`    | 768px         | Tablets                |
-| `lg`    | 1024px        | Laptops                |
-| `xl`    | 1280px        | Desktops               |
-| `2xl`   | 1536px        | Telas grandes          |
+| `sm`    | 640px | Smartphones grandes |
+| `md`    | 768px | Tablets |
+| `lg`    | 1024px | Laptops |
+| `xl`    | 1280px | Desktops |
+| `2xl`   | 1536px | Telas grandes |
 
-## 🔄 Como Funciona
+## Como Funciona
 
 A abordagem do Tailwind para responsividade é **mobile-first**. Isso significa que:
 
@@ -33,7 +33,7 @@ A abordagem do Tailwind para responsividade é **mobile-first**. Isso significa 
 </div>
 ```
 
-## 📋 Usando Prefixos Responsivos
+## Usando Prefixos Responsivos
 
 Você pode adicionar prefixos responsivos à maioria das classes utilitárias do Tailwind:
 
@@ -99,7 +99,7 @@ Você pode adicionar prefixos responsivos à maioria das classes utilitárias do
 </p>
 ```
 
-## 🎯 Customização de Breakpoints
+## Customização de Breakpoints
 
 Você pode personalizar os breakpoints no arquivo `tailwind.config.js`:
 
@@ -141,7 +141,7 @@ module.exports = {
 }
 ```
 
-## 📱 Mobile-First vs. Desktop-First
+## Mobile-First vs. Desktop-First
 
 O Tailwind usa a abordagem **mobile-first** por padrão, mas você pode usar breakpoints com `max-width` para uma abordagem desktop-first:
 
@@ -173,7 +173,7 @@ Uso:
 </div>
 ```
 
-## 📦 Container Responsivo
+## Container Responsivo
 
 O Tailwind inclui uma classe `container` para criar layouts responsivos:
 
@@ -227,7 +227,7 @@ module.exports = {
 }
 ```
 
-## 🔍 Media Queries Personalizadas
+## Media Queries Personalizadas
 
 Quando você precisa de lógica mais complexa, pode usar `@media` com a função `theme()`:
 
@@ -246,7 +246,7 @@ Quando você precisa de lógica mais complexa, pode usar `@media` com a função
 }
 ```
 
-## 🖥️ Estratégias Avançadas
+## Estratégias Avançadas
 
 ### Utilitários Responsivos Personalizados
 
@@ -290,7 +290,7 @@ Uso:
 </div>
 ```
 
-## 🎯 Técnicas Responsivas Modernas
+## Técnicas Responsivas Modernas
 
 ### Unidades Relativas
 
@@ -353,7 +353,7 @@ module.exports = {
 }
 ```
 
-## 🛠️ Exemplos Práticos
+## Exemplos Práticos
 
 ### 1. Cabeçalho Responsivo
 
@@ -446,7 +446,7 @@ module.exports = {
           <div class="md:w-1/2 mb-8 md:mb-0 md:pr-8">
             <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
               Bem-vindo ao nosso site
-            </h1>
+</h1>
             <p class="text-lg text-gray-600 mb-6">
               Uma descrição interessante para envolver seus visitantes.
             </p>
@@ -546,7 +546,7 @@ module.exports = {
 </div>
 ```
 
-## 🧪 Testes de Responsividade
+## Testes de Responsividade
 
 Ao desenvolver com Tailwind CSS, teste seu layout em múltiplos dispositivos ou use as ferramentas de desenvolvimento do navegador:
 
@@ -554,7 +554,7 @@ Ao desenvolver com Tailwind CSS, teste seu layout em múltiplos dispositivos ou 
 2. [Responsively App](https://responsively.app/)
 3. [Sizzy](https://sizzy.co/)
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de Responsividade no Tailwind](https://tailwindcss.com/docs/responsive-design)
 - [Exemplos de Componentes Responsivos](https://tailwindcomponents.com/)
@@ -565,4 +565,4 @@ Ao desenvolver com Tailwind CSS, teste seu layout em múltiplos dispositivos ou 
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

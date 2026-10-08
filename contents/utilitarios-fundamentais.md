@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🎯 Utilitários Fundamentais do Tailwind CSS 🧰
+# Utilitários Fundamentais do Tailwind CSS
 
 O Tailwind CSS é construído em torno do conceito de classes utilitárias - pequenas classes de propósito único que você pode combinar para criar qualquer design. Nesta seção, exploraremos os utilitários mais fundamentais que formam a base do framework.
 
-## 📏 Espaçamento
+## Espaçamento
 
 O Tailwind oferece classes para controlar margens e preenchimentos (padding) em todos os lados ou em lados específicos.
 
@@ -45,7 +45,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 - `4` = 1rem (16px)
 - ...etc.
 
-## 🎨 Cores e Fundos
+## Cores e Fundos
 
 ### Cores de texto
 
@@ -78,7 +78,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 </div>
 ```
 
-## 📐 Dimensionamento
+## Dimensionamento
 
 ### Largura e Altura
 
@@ -101,7 +101,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <div class="min-h-screen">Altura mínima de tela cheia</div>
 ```
 
-## 🔣 Tipografia
+## Tipografia
 
 ### Família da fonte
 
@@ -148,7 +148,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <p class="text-justify">Justificado</p>
 ```
 
-## 🧩 Layouts
+## Layouts
 
 ### Display
 
@@ -171,7 +171,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <div class="sticky">Grudento</div>
 ```
 
-## 🔲 Bordas
+## Bordas
 
 ### Arredondamento de bordas
 
@@ -209,7 +209,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <div class="border border-red-500">Borda vermelha</div>
 ```
 
-## 📦 Sombras
+## Sombras
 
 ```html
 <div class="shadow-sm">Sombra pequena</div>
@@ -222,7 +222,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <div class="shadow-none">Sem sombra</div>
 ```
 
-## 🔄 Transições e Transformações
+## Transições e Transformações
 
 ### Transições
 
@@ -264,7 +264,7 @@ O Tailwind usa uma escala padrão que pode ser personalizada:
 <div class="skew-x-12">Inclinar no eixo X</div>
 ```
 
-## 📱 Responsividade
+## Responsividade
 
 O Tailwind inclui prefixos de breakpoint para aplicar utilitários em tamanhos de tela específicos:
 
@@ -286,7 +286,7 @@ O Tailwind inclui prefixos de breakpoint para aplicar utilitários em tamanhos d
 - `xl`: Mínimo 1280px
 - `2xl`: Mínimo 1536px
 
-## 🔄 Encadeando Utilitários
+## Encadeando Utilitários
 
 A magia do Tailwind está na composição de utilitários para criar designs complexos:
 
@@ -303,7 +303,7 @@ A magia do Tailwind está na composição de utilitários para criar designs com
 
 Este botão combina espaçamento, cores, tipografia, bordas e transições.
 
-## 🛠️ Padrões Comuns e Exemplos
+## Padrões Comuns e Exemplos
 
 ### Card
 
@@ -340,7 +340,7 @@ Este botão combina espaçamento, cores, tipografia, bordas e transições.
 </span>
 ```
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de utilitários](https://tailwindcss.com/docs/utility-first)
 - [Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
@@ -350,4 +350,4 @@ Este botão combina espaçamento, cores, tipografia, bordas e transições.
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 🎬 Animações e Transições no Tailwind CSS 🌟
+# Animações e Transições no Tailwind CSS
 
 O Tailwind CSS oferece um conjunto de classes utilitárias para adicionar animações e transições aos elementos HTML, permitindo criar interfaces dinâmicas e interativas sem escrever CSS personalizado.
 
-## 🔄 Transições
+## Transições
 
 As transições permitem que as mudanças de propriedades ocorram suavemente ao longo do tempo, em vez de instantaneamente.
 
@@ -85,7 +85,7 @@ Adie o início da transição com:
 </button>
 ```
 
-## 🔄 Transformações
+## Transformações
 
 ### Escala (Scale)
 
@@ -169,7 +169,7 @@ Define o ponto em torno do qual a transformação ocorre:
 </div>
 ```
 
-## 🎭 Animações
+## Animações
 
 O Tailwind possui algumas animações predefinidas e permite criar as suas próprias.
 
@@ -226,7 +226,7 @@ Controle o tempo total de uma animação:
 <div class="animate-spin animation-duration-[2000ms]">2 segundos</div>
 ```
 
-### Iteração da Animação 
+### Iteração da Animação
 
 Controle quantas vezes a animação é executada:
 
@@ -274,7 +274,7 @@ Atrase o início da animação:
 </div>
 ```
 
-## 🧠 Usando Eventos para Triggering
+## Usando Eventos para Triggering
 
 ### Hover
 
@@ -315,7 +315,7 @@ Atrase o início da animação:
 </div>
 ```
 
-## 🎯 Exemplos Práticos
+## Exemplos Práticos
 
 ### 1. Botão com Efeito de Clique
 
@@ -531,7 +531,7 @@ Atrase o início da animação:
 </script>
 ```
 
-## 🚫 Desativando Animações
+## Desativando Animações
 
 Para usuários que preferem interfaces sem animação, você pode respeitar a configuração `prefers-reduced-motion`:
 
@@ -545,7 +545,7 @@ Para usuários que preferem interfaces sem animação, você pode respeitar a co
 </button>
 ```
 
-## 🎯 Melhores Práticas
+## Melhores Práticas
 
 1. **Use transições com moderação**: Muitas animações podem deixar a interface lenta e distrair os usuários.
 
@@ -557,7 +557,7 @@ Para usuários que preferem interfaces sem animação, você pode respeitar a co
 
 5. **Combine com estados interativos**: As animações são mais eficazes quando fornecem feedback para interações do usuário.
 
-## 🔗 Links Úteis
+## Links Úteis
 
 - [Documentação de transições no Tailwind](https://tailwindcss.com/docs/transition-property)
 - [Documentação de transformações no Tailwind](https://tailwindcss.com/docs/transform)
@@ -569,4 +569,4 @@ Para usuários que preferem interfaces sem animação, você pode respeitar a co
 
 [⬅️ Voltar para o início](../README.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"/>

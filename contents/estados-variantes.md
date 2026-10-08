@@ -1,7 +1,5 @@
 # Estados e Variantes no Tailwind CSS
 
-![Estados e Variantes no Tailwind CSS](/images/estados-variantes.jpg)
-
 ## O que são Estados e Variantes?
 
 No desenvolvimento web, os elementos da interface frequentemente mudam de aparência com base em diferentes estados - quando o cursor passa sobre eles, quando são clicados, ou quando estão desabilitados. O Tailwind CSS oferece um sistema poderoso de modificadores para estilizar esses diferentes estados sem precisar escrever CSS personalizado.
@@ -235,4 +233,4 @@ Você pode aplicar animações em diferentes estados:
 
 ## Conclusão
 
-Os modificadores de estado do Tailwind CSS oferecem uma maneira eficiente de criar interfaces interativas e responsivas sem escrever CSS personalizado. Ao dominar essas variantes, você pode criar experiências de usuário ricas e profissionais mantendo seu código limpo e fácil de manter. 
+Os modificadores de estado do Tailwind CSS oferecem uma maneira eficiente de criar interfaces interativas e responsivas sem escrever CSS personalizado. Ao dominar essas variantes, você pode criar experiências de usuário ricas e profissionais mantendo seu código limpo e fácil de manter.
